@@ -1,0 +1,197 @@
+Tekninen nimi;Semanttinen nimi
+order_row_id;Tilausrivi ID
+order_number;Tilausnumero
+work_number;Työnumero
+work_id;Työ ID
+customer_id;Asiakkaan ID
+seller_id;Myyjä ID
+article_id;Nimike ID
+order_created_date;Tilauksen luontipäivä
+production_start_date_planned;Tuotannon suunniteltu aloitus
+production_start_date_actual;Tuotannon toteutunut aloitus
+production_end_date_planned;Tuotannon suunniteltu lopetus
+production_end_date_actual;Tuotannon toteutunut lopetus
+dispatch_date_planned;Suunniteltu lähetys
+dispatch_date_actual;Toteutunut lähetys
+delivery_date_planned;Suunniteltu toimitus
+delivery_date_actual;Toteutunut toimitus
+invoice_date_actual;Lasku lähetyspäivä
+payment_date_actual;Lasku maksupäivä
+order_state_id;Tilauksen tilan ID
+order_type;Tilauksen tyyppi
+ordered_qty;Tilattu määrä
+delivered_qty;Toimitettu määrä
+unit_price;Kappalehinta
+total_price;Tilausrivi hinta
+direct_work_cost_planned;Suorat työkustannukset suunniteltu
+direct_work_cost_actual;Suorat työkustannukset toteutunut
+material_cost_planned;Materiaalikustannukset suunniteltu
+material_cost_actual;Materiaalikustannukset toteutunut
+subcontracting_cost_planned;Alihankintakustannukset suunniteltu
+subcontracting_cost_actual;Alihankintakustannukset toteutunut
+other_direct_costs_planned;Muut suorat kustannukset
+other_direct_costs_actual;Muut suorat kustannukset toteutunut
+prime_cost_planned_sum;Suorat tuotantokustannukset suunniteltu
+prime_cost_actual_sum;Suorat tuotantokustannukset toteutunut
+unit_prime_cost_planned;Kappalekustannukset suunniteltu
+unit_prime_cost_actual;Kappalekustannukset toteutunut
+sales_margin_planned;Myyntikate suunniteltu
+sales_margin_actual;Myyntikate toteutunut
+overhead_costs_planned;Yleiskustannuslisä suunniteltu
+overhead_costs_actual;Yleiskustannuslisä toteutunut
+manufacturing_cost_planned;Valmistuskustannukset suunniteltu
+manufacturing_cost_actual;Valmistuskustannukset toteutunut
+unit_manufacturing_cost_planned;Kappale valmistuskustannukset suunniteltu
+unit_manufacturing_cost_actual;Kappale valmistuskustannukset toteutunut
+profit_planned;Voittolisä suunniteltu
+profit_actual;Voittolisä toteutunut
+unit;Yksikkö
+currency;Valuutta
+new_article;Uusi nimike
+order_complete;Tilaus valmis
+workphase_id;Työvaihe ID
+workphase_number;Työvaihe raportti
+workcenter_id;Työkeskus ID
+workcenter_group_id;Työkeskusryhmä ID
+phase_number;Vaihenumero
+phase_description;Vaihekuvaus
+phase_status;Vaihetila
+subcontracting_phase;Alihankintavaihe
+start_date_original_planned;Aloituspäivä alkuperäinen
+start_date_latest_planned;Aloituspäivä suunniteltu
+start_date_actual;Aloituspäivä toteutunut
+end_date_original_planned;Lopetuspäivä alkuperäinen
+end_date_latest_planned;Lopetuspäivä suunniteltu
+end_date_actual;Lopetuspäivä toteutunut
+start_time_planned;Aloitusaika suunniteltu
+start_time_actual;Aloitusaika toteutunut
+end_time_planned;Lopetusaika suunniteltu
+end_time_actual;Lopetusaika toteutunut
+start_timestamp_planned;Aloitus aikaleima suunniteltu
+end_timestamp_planned;Lopetus aikaleima suunniteltu
+start_timestamp_actual;Aloitus aikaleima toteutunut
+end_timestamp_actual;Lopetus aikaleima toteutunut
+planned_qty;Suunniteltu määrä
+produced_qty;Tehty määrä
+rejected_qty;Hylätty määrä
+workcenter_hour_rate;Tuntihinta
+phase_cost_planned;Vaihekustannus suunniteltu
+phase_cost_actual_stamping;Vaihekustannus leimaukset
+phase_cost_actual_machine;Vaihekustannus konedata
+setup_time_planned_min;Asetusaika suunniteltu
+setup_time_stamping_min;Asetusaika leimattu
+setup_time_machine_min;Asetusaika konedata
+production_time_planned_min;Tuotantoaika suunniteltu
+production_time_stamping_min;Tuotantoaika leimattu
+production_time_machine_min;Tuotantoaika konedata
+phase_duration_planned_min;Vaiheaika suunniteltu
+phase_duration_stamping_min;Vaiheaika leimattu
+phase_duration_machine_min;Vaiheaika konedata
+unit_time_planned_min;Kappaleaika suunniteltu
+unit_time_stamping_min;Kappaleaika leimattu
+unit_time_machine_min;Kappaleaika konedata
+cycle_time_ideal_min;Kappale jaksoaika tavoite
+cycle_time_planned_min;Kappale jaksoaika suunniteltu
+cycle_time_stamping_min;Kappale jaksoaika leimattu
+cycle_time_machine_min;Kappale jaksoaika konedata
+processing_time_ideal_min;Koneaika tavoite
+processing_time_planned_min;Koneaika suunniteltu
+processing_time_stamping_min;Koneaika leimattu
+processing_time_machine_min;Koneaika konedata
+machine_event_id;Konetapahtuma ID
+event_type_id;Tapahtumatyyppi ID
+source_id;Tapahtumalähde ID
+user_id;Käyttäjä ID
+program_name;Ohjelma
+start_date;Aloituspäivä
+end_date;Lopetuspäivä
+start_time;Aloitusaika
+end_time;Lopetusaika
+start_at;Aloitus aikaleima
+end_at;Lopetus aikaleima
+duration_min;Kesto min
+unit_time_min;Kappaleaika min
+unit_cycle_time_min;Kappale jaksoaika min
+unit_processing_time_min;Kappale koneaika min
+produced_qty_stamping;Tuotettu määrä leimausdata
+produced_qty_machine;Tuotettu määrä konedata
+rejected_qty_stamping;Hylätty määrä kpl
+part_counter;Kappalelaskuri
+efficient_production_min;Tehokas työstöaika min
+inefficient_production_min;Tehoton työstöaika min
+cutting_time_min;Lastuamisaika min
+non_cutting_time_min;Koneen apuaika min
+feed_override;Syötön prosenttikytkin
+spindle_override;Karan prosenttikytkin
+machine_active_min;Työstöaika min
+setup_time_min;Asetusaika min
+part_change_time_min;Vaihtoaika min
+undefined_idle_min;Muu odotusaika min
+idle_sum_min;Odotusaika min
+power_off_min;Sammutettu min
+other_min;Muu aika min
+exception_min;Poikkeama min
+exception_id;Poikkeama ID
+time_sum_min;Aikojen summa min
+power_consumption_kwh;Energiankulutus kWh
+notes;Lisätiedot
+customer_number;Asiakasnumero
+customer_name;Asiakkaan nimi
+location;Sijainti
+article_code;Nimikekoodi
+article_name;Nimikkeen nimi
+article_name_other;Nimikkeen muu nimi
+article_description;Nimikkeen kuvaus
+article_group;Nimikeryhmä
+revision;Revisio
+workcenter_name;Työkeskuksen nimi
+workcenter_description;Työkeskuksen kuvaus
+workcenter_type;Työkeskuksen tyyppi
+workcenter_group_name;Työkeskusryhmän nimi
+workcenter_group_description;Työkeskusryhmän kuvaus
+user_name;Käyttäjän nimi
+user_role;Käyttäjän rooli
+order_state_name;Tilauksen tilan nimi
+event_type_name_eng;Tapahtumatyypin nimi englanniksi
+event_type_name_fin;Tapahtumatyypin nimi suomeksi
+event_description;Tapahtuman kuvaus
+source_name;Lähteen nimi
+source_description;Lähteen kuvaus
+exception_type;Poikkeamatyyppi
+exception_description;Poikkeaman kuvaus
+date_id;Päivämäärä ID
+date_index;Päivämääräindeksi
+date_fin;Päivämäärä
+date_iso;Päivämäärä ISO-muodossa
+day_of_week;Viikonpäivän numero
+weekday_name_fin;Viikonpäivän nimi suomeksi
+weekday_name_short_fin;Viikonpäivän lyhenne suomeksi
+weekday_name_eng;Viikonpäivän nimi englanniksi
+weekday_name_short_eng;Viikonpäivän lyhenne englanniksi
+day;Päivä
+week;Viikko
+month;Kuukausi
+quarter;Kvartaali
+year;Vuosi
+year_day;Vuoden päivä
+quarter_day;Kvartaalin päivä
+year_week;Vuosi ja viikko
+year_month;Vuosi ja kuukausi
+year_quarter;Vuosi ja kvartaali
+month_name_short_fin;Kuukauden lyhenne suomeksi
+month_name_fin;Kuukauden nimi suomeksi
+month_name_short_eng;Kuukauden lyhenne englanniksi
+month_name_eng;Kuukauden nimi englanniksi
+is_weekend;On viikonloppu
+is_workday;On työpäivä
+time_id;Aika ID
+time_hms;Kellonaika sekunnit
+time_hm;Kellonaika minuutit
+hour;Tunti
+minute;Minuutti
+second;Sekunti
+time_of_day_str;Vuorokaudenaika
+time_of_day_range;Vuorokaudenajan aikaväli
+time_of_day_id;Vuorokaudenajan ID
+shift;Vuoro
+shift_id;Vuoro ID
