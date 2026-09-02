@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/1353243519.svg)](https://doi.org/10.5281/zenodo.22254202)
-
 # Tuotantotiedon tietomalli
 
 Tuotantotiedon tietomalli on erityisesti konepajateollisuuden yritysten tarpeisiin kehitetty avoin malli, jota voi käyttää vaikka yrityksen tietovaraston pohjana. Tietomallia voi soveltaa myös muissa tuotantoa tekevissä valmistavan teollisuuden yrityksissä.
